@@ -1,0 +1,55 @@
+# Theme settings
+doks:
+    baseurl: 
+    color_theme: purple # Available themes: blue (default), green, purple, red and yellow
+    header:
+        logo:
+            text: PELEIO Video Storytelling Guide
+            image:
+        nav:
+            - item_name: Overview
+              item_url: 'Overview.md'
+            - item_name: Introduction to PELEIO
+              item_url: 'IntroductionsstoPELEIO.md'
+            - item_name: Organizing the Story
+              item_url: 'OrganizingtheStory.md'
+            - item_name: Telling the Story
+              item_url: 'TellingtheStory.md'
+            - item_name: Collecting the Story
+              item_url: 'CollectingtheStory.md'
+            - item_name: Enhancing the Story
+              item_url: 'EnhancingtheStory.md'
+            - item_name: IRL, Extra Thoughts and  Notes
+              item_url: 'IRL.md'
+            - item_name: Creative Additions
+              item_url: 'CreativeAdditions.md'
+    footer:
+        content:
+            logo:
+                text: PELEIO Video Storytelling Community
+                image:
+            copyright: Copyright &copy; 2sz020. - PELEIO, LLC <br>All rights reserved.
+        social_list:
+            - network_name: facebook
+              profile_url: '#'
+            - network_name: twitter
+              profile_url: '#'
+            - network_name: instagram
+              profile_url: '#'
+            - network_name: youtube
+              profile_url: '#'
+    google_analytics:
+        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
+    comments:
+        disqus_forum_shortname: # Add your disqus forum shortname to activate comments
+
+# SASS settings
+sass:
+    sass_dir: _sass
+    style: :compressed
+
+# Jekyll settings
+layouts_dir: _layouts
+includes_dir: _includes
+exclude: [ 'README.md', 'CHANGELOG.md' ]
+permalink: /:title/
