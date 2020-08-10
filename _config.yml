@@ -1,10 +1,10 @@
 # Theme settings
 doks:
-    color_theme: purple # Available themes: blue (default), green, purple, red and yellow
+    color_theme: green # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
             text: PELEIO Video Storytelling Guide
-            image:
+            image: https://camo.githubusercontent.com/efdcf5787f38c7bf6402db59f8792511634857e5/68747470733a2f2f69322e77702e636f6d2f7777772e70656c652e696f2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f4c4f474f5f4a756e652d33442e706e67
         nav:
             - item_name: About
               item_url: 'README.md'
