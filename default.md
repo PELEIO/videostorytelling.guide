@@ -1,12 +1,20 @@
 ---
 # Page settings
-layout: default
+layout: homepage
 keywords:
 comments: false
 
 # Hero section
-title: Page title
-description: Page description
+title: PELEIO Video Storytelling Guide
+description: Project description
+buttons:
+    - content: Button
+      url: '#'
+      external_url: false
+    - icon: github
+      content: Button with icon
+      url: '#'
+      external_url: true
 
 # Author box
 author:
@@ -26,6 +34,13 @@ page_nav:
     next:
         content: Next page
         url: '#'
+
+# Grid navigation
+grid_navigation:
+    - title: Grid navigation
+      excerpt: Section description
+      cta: Read more
+      url: '#'
 ---
 
 <img src="https://i2.wp.com/www.pele.io/wp-content/uploads/2020/06/LOGO_June-3D.png" width=300 height=104>
