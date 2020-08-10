@@ -6,22 +6,15 @@ doks:
             text: PELEIO Video Storytelling Guide
             image:
         nav:
-            - item_name: Overview
+            - item_name: About
+              item_url: 'README.md'
+            - item_name: Guide
               item_url: 'Overview.md'
-            - item_name: Introduction to PELEIO
-              item_url: 'IntroductionsstoPELEIO.md'
-            - item_name: Organizing the Story
-              item_url: 'OrganizingtheStory.md'
-            - item_name: Telling the Story
-              item_url: 'TellingtheStory.md'
-            - item_name: Collecting the Story
-              item_url: 'CollectingtheStory.md'
-            - item_name: Enhancing the Story
-              item_url: 'EnhancingtheStory.md'
-            - item_name: IRL, Extra Thoughts and  Notes
-              item_url: 'IRL.md'
-            - item_name: Creative Additions
-              item_url: 'CreativeAdditions.md'
+            - item_name: Editing
+              item_url: 'Editing.md'
+            - item_name: PELEIO
+              item_url: 'https://www.pele.io'
+              
     footer:
         content:
             logo:
