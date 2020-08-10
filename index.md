@@ -2,6 +2,7 @@
 # Page settings
 layout: homepage
 keywords:
+comments: false
 
 # Hero section
 title: PELEIO Video Storytelling Guide
@@ -21,6 +22,18 @@ author:
     title_url: '#'
     external_url: true
     description: Author description
+
+# Micro navigation
+micro_nav: true
+
+# Page navigation
+page_nav:
+    prev:
+        content: Previous page
+        url: '#'
+    next:
+        content: Next page
+        url: '#'
 
 # Grid navigation
 grid_navigation:
@@ -74,4 +87,5 @@ We’d love to work with you to make this guide an all-in-one resource for those
 Alternatively, if you have experience in storytelling, we welcome your feedback. We are well aware that there may be things missing here, things that could be expanded upon, and things that might need clarification.
 
 [https://www.pele.io](https://www.pele.io)
+
 
