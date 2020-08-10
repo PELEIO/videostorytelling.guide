@@ -27,7 +27,7 @@ doks:
             logo:
                 text: PELEIO Video Storytelling Community
                 image:
-            copyright: Copyright &copy; 2sz020. - PELEIO, LLC <br>All rights reserved.
+            copyright: Copyright &copy; 2020. - PELEIO, LLC <br>All rights reserved.
         social_list:
             - network_name: facebook
               profile_url: '#'
